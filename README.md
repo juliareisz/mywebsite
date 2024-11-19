@@ -4,7 +4,8 @@
 </p>
 
 <h2>A organização</h2>
-<li> 
+<pre>
+  <li> 
   /projeto
 |-- index.html
 |-- style.css
@@ -15,3 +16,5 @@
     |-- web-black-icon.png
     |-- web-white-icon.png
     |-- tread-skateboard.jpg</li>
+
+</pre>
